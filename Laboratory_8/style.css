@@ -1,0 +1,32 @@
+header {
+  width: 1080px;
+  height: 50px;
+  border: solid 1px green;
+  margin: auto;
+  background-image: url(img/header.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.shelf{
+  font-size: 36px;
+  color: white;
+  font-weight: bold;
+  margin-top: 10px;
+  display: block;
+  margin-left: 20px;
+}
+
+.div1{
+  background: red;
+  height: 100px;
+  width: 200px;
+  margin-top: 10px;
+}
+
+#div2{
+  background: green;
+  height: 100px;
+  width: 200px;
+  margin-top: 10px;
+}
